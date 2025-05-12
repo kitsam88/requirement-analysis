@@ -1,8 +1,13 @@
 # requirement-analysis
 # Requirement Analysis in Software Development.
-This repository provides an overview of the Requirement Analysis phase in the software development lifecycle. It covers key concepts, types of requirements, and best practices for gathering, documenting, and analyzing requirements to ensure successful project outcomes.
+📘 About This Repository
+Provides an overview of the Requirement Analysis phase in the Software Development Lifecycle (SDLC).
 
-Contents
+Covers key concepts, types of requirements, and best practices.
+
+Focuses on gathering, documenting, and analyzing requirements to ensure successful project outcomes.
+
+📄 Contents
 Introduction to Requirement Analysis
 
 Functional vs. Non-functional Requirements
@@ -11,8 +16,10 @@ Techniques for Requirements Gathering
 
 Common Challenges and Solutions
 
-Purpose
-To help developers, analysts, and stakeholders understand the importance of clear and thorough requirement analysis in building effective software solutions.
+🎯 Purpose
+To help developers, analysts, and stakeholders understand the importance of clear and thorough requirement analysis.
+
+Aims to support the development of effective, user-aligned software solutions.
 
 # What is Requirement Analysis?
 📌 What is Requirement Analysis?
